@@ -1,0 +1,2 @@
+mjPostProcessPassiveScalarPimpleFoamV06.C
+EXE = $(FOAM_USER_APPBIN)/mjPostProcessPassiveScalarPimpleFoamV06
