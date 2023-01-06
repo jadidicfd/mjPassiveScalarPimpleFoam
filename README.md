@@ -5,4 +5,4 @@ Description: Transient solver for incompressible, turbulent flow of Newtonian fl
 
 The procedure of using all the codes together has been demonstrated in the “mjPassiveScalarPimpleFoam.png” 
 
-Papers #1, #2 and #3 show some results obtained from the codes.
+Papers#1, #2 and #3 in the publication folder show some results obtained from the codes.
